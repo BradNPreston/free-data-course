@@ -40,7 +40,7 @@ Create you profile
 
 ## Sign up to Codecademy
 [Codecademy](www.codecademy.com)
-
+[Edx CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 
 
