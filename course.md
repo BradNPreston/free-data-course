@@ -64,6 +64,8 @@ https://www.udacity.com/
 Kaggle
 https://www.kaggle.com/
 
+https://www.kaggle.com/c/titanic
+
 
 coursera
 https://www.coursera.org/
