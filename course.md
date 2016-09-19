@@ -68,6 +68,10 @@ https://www.kaggle.com/
 coursera
 https://www.coursera.org/
 
+
+https://www.coursera.org/account/profile
+
+
 ## Listen To
 econtalk
 Skin in the game
