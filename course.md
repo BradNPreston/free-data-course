@@ -11,7 +11,10 @@ Free wifi
 
 ## Download 
 [Python](https://www.python.org/downloads/)
+[SciKit Learn](http://scikit-learn.org/stable/)
+[NumPy](http://www.numpy.org/)
 
+https://code.visualstudio.com/
 
 
 ## Sign up to Khan Academy
@@ -29,7 +32,7 @@ Complete the following lessons
 
 [Github](www.github.com)
 Create a public file to track your progress through this list
-
+[GitHub Hello World Guide](https://guides.github.com/activities/hello-world/)
 
 ## Sign up to LinkedIn
 
