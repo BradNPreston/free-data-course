@@ -56,12 +56,14 @@ http://www.spotters.mobi/
 http://www.secretagent.co.za/
 https://www.freelancer.co.za
 https://mobile.elance.com/m/
-
+https://www.udacity.com/
 
 Kaggle
+https://www.kaggle.com/
+
 
 coursera
-
+https://www.coursera.org/
 
 ## Listen To
 econtalk
