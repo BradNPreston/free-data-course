@@ -6,3 +6,5 @@
 [Coursera Profile](https://www.coursera.org/user/i/574319c69d417aec2edfdbc9f98af738)
 
 [Kaggle](https://www.kaggle.com/6178-brad-preston)
+
+[Codecademy](https://www.codecademy.com/betaWhiz74919)
